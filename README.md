@@ -1,2 +1,2 @@
 # jefe-vaults
-Jefe Vaults Dev Lab
+This is the repository for the Escrow Development of JEFE TOKEN. 
